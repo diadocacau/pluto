@@ -74,6 +74,10 @@ DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 ##########################################
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/64b02be14ea480000831ec78/colorLogoPNG.png" group-title="ESPORTES" tvg-name="",DAZN WOMENS FOOTBALL
+https://i.mjh.nz/PlutoTV/164b02be14ea480000831ec78-alt.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="INVESTIGACAO" tvg-name="",DETETIVES MEDICOS
 https://i.mjh.nz/PlutoTV/1638df93ae2f2a3000737c168-alt.m3u8
 
@@ -91,6 +95,10 @@ DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 ##########################################
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png" group-title="NOTICIAS" tvg-name="",EURONEWS PORTUGUES
+https://i.mjh.nz/PlutoTV/1619e6614c9d9650007a2b171-alt.m3u8
 
 
 ##########################################
@@ -286,6 +294,10 @@ https://i.mjh.nz/PlutoTV/15f12111c9e6c2c00078ef3bb-alt.m3u8
 https://i.mjh.nz/PlutoTV/15f1ef1a8cec6be00072a7ac9-alt.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="ESPORTES" tvg-name="",PLUTO TV ESPORTES
+https://i.mjh.nz/PlutoTV/15f32d2db0af67400077f29c4-alt.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="FILMES" tvg-name="",PLUTO TV FILMES SUSPENSE
 https://i.mjh.nz/PlutoTV/15f171d3442a0500007362f22-alt.m3u8
 
@@ -304,6 +316,10 @@ https://i.mjh.nz/PlutoTV/15fac52f142044f00078e2a51-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CURIOSIDADES" tvg-name="",PLUTO TV NATUREZA
 https://i.mjh.nz/PlutoTV/15f1213ba0ecebc00070e170f-alt.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="NOTICIAS" tvg-name="",PLUTO TV RECORD NEWS
+https://i.mjh.nz/PlutoTV/16102e04e9ab1db0007a980a1-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="CURIOSIDADES" tvg-name="",PLUTO TV VIDA REAL
